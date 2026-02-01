@@ -1,6 +1,7 @@
 # v3DiscordActivity
- EN: A discord activity plugin using the official Feather Client API.
- PL: Wtyczka do aktywności w serwisie Discord wykorzystująca oficjalne API klienta Feather.
+ **EN**: A discord activity plugin using the official Feather Client API.
+ 
+ **PL**: Wtyczka do aktywności w serwisie Discord wykorzystująca oficjalne API klienta Feather.
 
 
 
