@@ -11,4 +11,4 @@ Configuration:
 ```image-link: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw3k1c6JaNUexk2h38jFUHu4j3O73P8mgVkw&s"
 image-text: "image text!"
 state: "state"
-details: "details"```
+details: "details"
