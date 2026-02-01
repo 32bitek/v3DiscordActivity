@@ -1,0 +1,7 @@
+name: v3DiscordActivity
+version: '0.0.1'
+main: dev.v3team.ServerPlugin
+api-version: 1.16
+author:
+  - 32bitek_
+  - RejvoseKK
